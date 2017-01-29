@@ -1,4 +1,6 @@
 # undeprecate-util
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aikar/undeprecate-util.svg)](https://greenkeeper.io/)
 Undeprecate node util.print/error methods
 
 ## Usage ##
